@@ -1,2 +1,4 @@
 # ffhi-firmware
-# ffhi-firmware
+
+Freifunk Hildesheim Firmware images
+
